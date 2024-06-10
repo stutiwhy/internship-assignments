@@ -64,7 +64,7 @@ while ch1 != 6:
     print("2. Remove book.")
     print("3. Search book.")
     print("4. List all books.")
-    print("5. Book genres.")
+    print("5. List books by genre.")
     print("6. Exit")
 
     ch1 = int(input("Enter choice : "))
