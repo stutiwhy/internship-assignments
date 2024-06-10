@@ -56,7 +56,6 @@ def  print_by_genre(user_genre): # function to print books by their category
     else:
         print("No books found for that genre.")
 
-
 ch1 = 0
 
 while ch1 != 6:
@@ -91,8 +90,9 @@ while ch1 != 6:
     elif ch1 == 5:
         user_genre = input("Enter genre to be searched : ")
         print_by_genre(user_genre)
-    
+
+    elif ch1 == 6:
+        print("Good bye !")
+        
     else:
         print("Invalid choice. Please enter a number between 1-6.")
-
-print("Good bye !")
