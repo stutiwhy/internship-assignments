@@ -116,7 +116,13 @@ while ch1 != 8:
     if ch1 == 1:
         name = input("Enter product name: ")
         category = input("Enter category: ")
-        price = float(input("Enter price: "))
+        try:
+            price = float(input("Enter price: "))
+            if price <= 0:
+                raise ValueError("Price must be a positive number.")
+        except ValueError as e:
+            print(f"Invalid input: {e}")
+            
         quantity = int(input("Enter quantity: "))
         expiration_date = input("Enter expiration date (YYYY-MM-DD): ")
         expiration_date = datetime.datetime.strptime(expiration_date, '%Y-%m-%d').date()
