@@ -1,3 +1,5 @@
-# Repo-1
+# Assignments
 
-## this is my first repository in GitHub
+## All assignments' program files uploaded here for multi-device convenience
+
+assignment 1 = 90/100
