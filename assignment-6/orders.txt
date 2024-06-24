@@ -1,0 +1,7 @@
+Kulfi,60.0,1
+Pav Bhaji,120.0,1
+Pani Puri,60.0,1
+Masala Dosa,100.0,2
+Aloo Paratha,80.0,3
+Butter Chicken,200.0,1
+Rasgulla,50.0,3

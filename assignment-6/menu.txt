@@ -1,0 +1,20 @@
+Pav Bhaji,120.0,3
+Butter Chicken,200.0,5
+Biryani,180.0,4
+Masala Dosa,100.0,6
+Chole Bhature,150.0,3
+Samosa,50.0,10
+Paneer Tikka,150.0,4
+Rogan Josh,220.0,3
+Pani Puri,60.0,15
+Aloo Paratha,80.0,8
+Dal Makhani,160.0,5
+Gulab Jamun,40.0,20
+Rasgulla,50.0,18
+Vegetable Pulao,130.0,4
+Chicken Tikka Masala,210.0,5
+Palak Paneer,140.0,6
+Mutton Biryani,250.0,3
+Papdi Chaat,70.0,12
+Kulfi,60.0,10
+Dhokla,90.0,8
