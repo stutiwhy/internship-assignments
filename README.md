@@ -1,5 +1,3 @@
-# Assignments
+# assignments
 
-## All assignments' program files uploaded here for multi-device convenience
-
-assignment 1 = 90/100
+## all assignments' program files uploaded here for multi-device convenience
